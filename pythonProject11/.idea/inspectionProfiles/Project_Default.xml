@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="student_management.student_management.urls.students" />
+          <option value="caloriebot.food.views.process_protein" />
+          <option value="caloriebot.food.views.process_fats" />
+          <option value="caloriebot.food.views.process_carbohydrates" />
+          <option value="caloriebot.food.views.process_food_name" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
